@@ -1,0 +1,16 @@
+---
+title: "Getting started"
+author: "the Manateam"
+format: html
+editor: visual
+---
+
+# Getting Started
+
+## Google account
+
+You will need a Google account to use the notebooks, which are on Google Colab. You can set on up [Set up new Google account](https://accounts.google.com/signup/v2/webcreateaccount?flowName=GlifWebSignIn&flowEntry=SignUp "Google account setup").
+
+This does not have to be your personal account, you can set one up just for data analysis, if you like.
+
+If you already have one, feel free to skip ahead to Chapter 2.

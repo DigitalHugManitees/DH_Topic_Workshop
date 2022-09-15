@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Manateam"
+  navbar:
+    logo: images/DHM_visual _logo.png
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - chapter-1.qmd
+      - chapter-2.qmd
+      - chapter-3.qmd
+      - chapter-4.qmd
+  page-footer:
+    center: 
+      - text: "About"
+        href: about.qmd
+      - text: "License"
+        href: license.qmd
+      - text: "Trademark"
+        href: trademark.qmd
+format:
+  html:
+    theme: 
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+
+

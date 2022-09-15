@@ -1,0 +1,34 @@
+---
+title: "About Manateam"
+author: "the Manateam"
+---
+
+## **In short, we're awesome!**
+
+To explain why, you'll meet our three members along with our herd leader, Dr. Conrad. We'll talk about how we got here, what we're doing, and how we think this work is important.
+
+### How we got here:
+
+-   Maddie Hare
+
+    -   Maddie's academic history is just that; she graduated from Dalhousie University in 2017 and 2021 with her BA and MA in History, respectively. She is currently in her second year of the Master of Information program at Dalhousie. She hopes to continue in academia and direct her efforts at bridging disciplinary divides with digital tools!
+
+-   Juan Chaves Baquero
+
+    -   \[insert bio here\]
+
+-   Poppy Riddle
+
+    -   From the San Francisco Bay Area in California, Poppy along with her family moved to Halifax in 2020. Having graduated from Dalhousie in 2022 with a Masters in Information Management, she loved writing lit reviews so much she decided to work on a Phd spanning information science and human-computer interaction.
+
+-   Dr. Colin Conrad
+
+    -   Dr. Conrad, (Assistant Professor of information technology in the [Faculty of Management](https://www.dal.ca/faculty/management.html) at Dalhousie University) is an interdisciplinary information technology scholar whose work draws from human-computer interaction, neuroscience, education, and data science. He is interested in how attention or other brain mechanisms impact the effectiveness of learning technologies. Recent work uses a variety of research methods borrowed from neuroscience (such as EEG and eye tracking) and information science (such as surveys and data mining) to answer research questions.
+
+### What are we doing?
+
+This year, we are developed tools to introduce humanities researchers to digital humanities by exploring how text-based analysis might help them develop insights. We are using machine learning to explore text found in archives from scanned documents turning them into concise topics and word exploration. We are also introducing them to two technologies that might be gateways to further exploration: the Python coding language and Tableau, a data visualization and analysis tool.
+
+### And this is important how?
+
+Digital Humanities seeks to provide a means of synthesis for huge amounts of information, enabling researchers to explore phenomena on a scale that is impractical for manual methods. It does not seek to replace human interpretation but enable interpretation of information that is hidden due to its size, length of time, or access. Python, a widely used coding language, is great for data science and can provide a means of not only exploration but functional programs to be used by researchers. Tableau, available as both free and commercially licensed versions, provides an easy path without coding to explore massive amounts of data. We think both of these tools are a gateway for researchers to exploring electronic resources freely available or of their own creation.

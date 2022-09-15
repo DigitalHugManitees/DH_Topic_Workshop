@@ -1,2 +1,7 @@
 # DH_Topic_Workshop
-This is our repository for Digital Humanities tools for exploring OCR and topic modelling.
+This branch is for the website only. Do not merge this with the main branch! 
+Its not a disaster, but still, messy. 
+So, please don't merge with the main. 
+
+Thanks!
+

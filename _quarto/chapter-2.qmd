@@ -1,0 +1,34 @@
+---
+title: "Source material"
+author: "the Manateam"
+format: html
+editor: visual
+---
+
+# Finding source material
+
+PDF files work best for this analysis, but there are three types of PDF files to be aware of:
+
+-   digitally-created pdfs such as from print streams in Word, that contain text and font-family information, and are searchable.
+
+-   scanned/image-only pdfs that contain no text information
+
+-   searchable pdfs - where there is a text layer that has been developed with OCR and sits underneath the scanned image
+
+Archives will typically use scanned image-only pdfs, though sometimes these are saved as PDF/A, which is a reduced file size with reduced functionality. For our Gazette project, you can find high quality scans of documents [here at the Dalhousie Gazette Archives.](https://findingaids.library.dal.ca/dalhousie-gazette "Link to Dalhousie Gazette Archives") You can find the current Gazette [here.](https://dalgazette.com/)
+
+![](images/Screen%20Shot%202022-09-04%20at%203.26.51%20PM.png){fig-alt="Dal Gazette logo"}
+
+The following is an example screenshot of a multi-page scanned image PDF file of a 1922 Dalhousie Gazette.
+
+![](images/Screen%20Shot%202022-09-04%20at%203.23.58%20PM.png){fig-alt="Scan of a 1922 Gazette front page"}
+
+## Other source materials
+
+You can also use other source materials as you get comfortable with this process. Some examples include:
+
+-   images of texts taken with your smartphone.
+
+## What it can't do
+
+The OCR notebook we provide uses PyTesseract, which is a Python wrapper for Google's Tesseract OCR library. It is not intended for analyzing handwritting. [This article](https://joseurena.medium.com/tesseract-ocr-evaluating-handwritten-text-recognition-1c6db85b2e7f) on medium.com illustrates some of the challenges. For analysis of handwriting, you will want Human Handwritten Text Recognition (HTR). For those with Python experience and time to create training datasets, you can find more [here](https://pythonawesome.com/handwritten-text-recognition-htr-system-implemented-with-tensorflow/).

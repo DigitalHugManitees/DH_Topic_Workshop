@@ -1,0 +1,68 @@
+---
+title: "Manateam Documentation on OCR and LDA"
+logo: images/DHM_visual _logo.png
+---
+
+![](images/DHM_visual%20_logo.png){width="195"}
+
+Welcome to our documentation introducing you to Python-based digital humanities tools.
+
+## What is Digital Humanities?
+
+Digital Humanities (DH) is the application of digital tools to process information to enable researchers to explore subjects in the humanities in new ways. Digital tools can provide advantages to the researcher with processing capabilities on huge amounts of information on texts, images, sound, or even on data itself. While DH employs digital technology with the goal is deriving new insights, these same tools can also be the subject of critical inquiry as well. It is a huge field with simultaneous developments in other fields. The [Wikipedia entry](https://en.wikipedia.org/wiki/Digital_humanities) on DH is well worth reading for an introduction, as are the resources from [University of Victoria](https://dhsi.org/course-offerings/), [Stanford,](https://shc.stanford.edu/digital-humanities) and the [University of California Berkeley](https://digitalhumanities.berkeley.edu/).
+
+Our workshop will focus on text analysis in which we look for topics, though there are many types of text analysis.
+
+## This documentation covers the following:
+
+-   Chapter 1 - Getting started
+-   Chapter 2 - Finding source material
+-   Chapter 3 - Using the OCR notebook
+-   Chapter 4 - Using the LDA notebook
+-   Chapter 5 - Moving on and using your own data
+
+## Objectives
+
+Our workshop seeks to provide the following for our participants: 
+
+-   Use Python to run an Optical Character Recognition (OCR) library called PyTesseract to extract text from a scanned PDF file and perform topic modeling using LDA to derive meaningful topics.
+
+-   Create visualizations, with both Python and Tableau Public, to generate meaningful topics from the text.
+
+-   Describe basic elements of Python, Google Colab and Tableau Public.
+
+-   Cover the basics of Jupyter Notebooks hosted in the Google Colab environment.
+
+-   Explore the basic principles and limitations of topic modeling.
+
+-   Discuss open source software and publicly available information can be implemented in social sciences and humanities research.
+
+-   Use Tableau Public to explore and analyze data using no coding, but able to produce visualizations and tables.
+
+-   Cover the process to create topics from a sample covering 100 years of the Dalhousie Gazette.
+
+## What is OCR?
+
+-   OCR is [Optical Character Recognition](https://en.wikipedia.org/wiki/Optical_character_recognition "Wiki link to OCR") is a means of converting scanned or an image of text into searchable text that can be used for analysis. OCR has wide applications in text-to-speech, text mining and natural language processing, translation, and computer vision.
+
+-   OCR has a long history as far back as the early 1900's, when text was optically converted into tones as an assistive technology. Today, mobile applications come with every smartphone enabling translation of signs across many languages. Google Books and Project Gutenberg are other examples of scanned image to text OCR processing.
+
+-   Our version of OCR is a Python wrapper for Google's Tesseract which has advantages on unusual fonts or poor quality scans.
+
+-   The input for our Python library, Pytesseract, uses PDF files. There are three types of PDF files:
+
+    -   digitally-created pdfs such as from print streams in Word, that contain text and font-family information, and are searchable.
+
+    -   scanned/image-only pdfs that contain no text information
+
+    -   searchable pdfs - where there is a text layer that has been developed with OCR and sits underneath the scanned image
+
+-   As there can be challenges with pdfs, Pytesseract will first convert all of them to images regardless of their type, process the characters using neural networks, and output the files as a plain text stream. We will then use the text files for further analysis using LDA topic modeling.
+
+## What is LDA?
+
+-   LDA, [Latent Dirichlet Allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation "Link to Wikipedia entry on LDA"), is a probability-based natural language processing (NLP) algorithm, that is specifically used to identify unknown topics within a text. While not the current state of the art, it is robust and still works pretty well!
+
+-   LDA is one of a growing number of topic modelling methods used for information retrieval, enabling linked data and semantic web searching. For digital humanities researchers, we can identify topics across groups of documents, though it still relies upon the expertise of the observer to interpret ambiguous terms.
+
+Ready? Move on to Chapter 2, Getting Started.
