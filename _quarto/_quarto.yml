@@ -1,6 +1,13 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - about.qmd
+    - index.qmd
+    - chapter-1.qmd
+    - chapter-2.qmd
+    - chapter-3.qmd
+    - chapter-4.qmd
 
 website:
   title: "Manateam"
