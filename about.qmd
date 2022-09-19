@@ -15,7 +15,7 @@ To explain why, you'll meet our three members along with our herd leader, Dr. Co
 
 -   Juan Chaves Baquero
 
-    -   \[insert bio here\]
+    -   Juan holds a LL.B. from Universidad de los Andes (Colombia) and is a Master of Digital Innovation student at Dalhousie University. He is writing a thesis about the readability of privacy policies, and the impacts it has on citizens' views about e-commerce in the midst of regulation shifts in Canada.
 
 -   Poppy Riddle
 
@@ -23,7 +23,7 @@ To explain why, you'll meet our three members along with our herd leader, Dr. Co
 
 -   Dr. Colin Conrad
 
-    -   Dr. Conrad, (Assistant Professor of information technology in the [Faculty of Management](https://www.dal.ca/faculty/management.html) at Dalhousie University) is an interdisciplinary information technology scholar whose work draws from human-computer interaction, neuroscience, education, and data science. He is interested in how attention or other brain mechanisms impact the effectiveness of learning technologies. Recent work uses a variety of research methods borrowed from neuroscience (such as EEG and eye tracking) and information science (such as surveys and data mining) to answer research questions.
+    -   Dr. Conrad, (Assistant Professor of information technology in the [Faculty of Management](https://www.dal.ca/faculty/management.html) at Dalhousie University) is an interdisciplinary information technology scholar whose work draws from human-computer interaction, neuroscience, education, and data science.He is interested in how attention or other brain mechanisms impact the effectiveness of learning technologies. Recent work uses a variety of research methods borrowed from neuroscience (such as EEG and eye tracking) and information science (such as surveys and data mining) to answer research questions.
 
 ### What are we doing?
 
