@@ -63,6 +63,10 @@ Our workshop seeks to provide the following for our participants: 
 
 -   LDA, [Latent Dirichlet Allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation "Link to Wikipedia entry on LDA"), is a probability-based natural language processing (NLP) algorithm, that is specifically used to identify unknown topics within a text. While not the current state of the art, it is robust and still works pretty well!
 
--   LDA is one of a growing number of topic modelling methods used for information retrieval, enabling linked data and semantic web searching. For digital humanities researchers, we can identify topics across groups of documents, though it still relies upon the expertise of the observer to interpret ambiguous terms.
+-   Our LDA notebook uses the Gensim LDA model which establishes document similarity. You can see the Gensim documentation [here](https://radimrehurek.com/gensim/auto_examples/tutorials/run_lda.html).
+
+-   LDA is one of a growing number of topic modelling methods used for information retrieval, enabling linked data and semantic web searching. For digital humanities researchers, we can identify topics across groups of documents, or establish document similarity, though it still relies upon the expertise of the observer to interpret ambiguous or contextual specific terms.
+
+-   While the notebook does have a coherence test included for validating the chosen number of topics, DH researchers should still rely upon manually validating the results.
 
 Ready? Move on to Chapter 2, Getting Started.
