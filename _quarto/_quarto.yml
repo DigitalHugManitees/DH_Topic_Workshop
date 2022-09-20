@@ -8,6 +8,7 @@ project:
     - chapter-2.qmd
     - chapter-3.qmd
     - chapter-4.qmd
+    
 
 website:
   title: "Manateam"
@@ -21,6 +22,7 @@ website:
       - chapter-2.qmd
       - chapter-3.qmd
       - chapter-4.qmd
+  
   page-footer:
     center: 
       - text: "About"

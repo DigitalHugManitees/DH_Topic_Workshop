@@ -101,6 +101,8 @@ The final step in our process creates additional output from the analysis that m
 
 That is the final step in the analysis! You may want to move the filles you used for the analysis and the results into another folder if you'd like to analyze another batch. Simply move them, and put more .txt files into the working directory and you can repeat the notebook from Step 3.
 
+Your examples should look something like [this example](TE_results.html) from a project that investigated 'teaching effectiveness' across a corpus of articles.
+
 ### Optional:
 
 There is a testing option for evaluating the number of topics. This works best on large corpora compared with small ones. The coherence scores were a conventional way to evaluate topic analysis, but it is beginning to fall out of favor with newer methods.
