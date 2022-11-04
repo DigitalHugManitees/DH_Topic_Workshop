@@ -7,7 +7,7 @@ editor: visual
 
 # Using the OCR notebook on Colab
 
-You can find the OCR notebook [here](https://github.com/Digital-Huge-Manitees/Digital_Huge_Manitees "Link to the Digital Huge Manitees main directory") on GitHub.
+You can find the OCR notebook [here](https://github.com/DigitalHugManitees/DH_Topic_Workshop "Link to the Digital Huge Manitees main directory") on GitHub.
 
 ## Objectives
 
