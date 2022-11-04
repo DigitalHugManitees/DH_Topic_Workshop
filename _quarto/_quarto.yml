@@ -8,6 +8,7 @@ project:
     - chapter-2.qmd
     - chapter-3.qmd
     - chapter-4.qmd
+    - index.qmd
     
 
 website:
@@ -22,6 +23,7 @@ website:
       - chapter-2.qmd
       - chapter-3.qmd
       - chapter-4.qmd
+      - index.qmd
   
   page-footer:
     center: 
