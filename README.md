@@ -4,6 +4,8 @@ There's two parts:
 - getting text from digital files and 
 - finding topics within those texts
 
+#### You can view the website [here.](https://digitalhugmanitees.github.io/DH_Topic_Workshop/)
+
 ## Fill this in with:
 ### introduction
 - [ ] What is this?
