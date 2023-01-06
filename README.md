@@ -33,3 +33,11 @@ This project would not have been possible without the innumerable contributors o
 
 https://www.geeksforgeeks.org/python-reading-contents-of-pdf-using-ocr-optical-character-recognition/
 This notebook was adapted based on the above reference tutorial.
+
+### sources on LDA
+ - https://towardsdatascience.com/latent-dirichlet-allocation-lda-9d1cd064ffa2
+
+### Authors and affiliations:
+This notebook is based off a tutorial by Tarek Ghanoum (https://towardsdatascience.com/topic-modelling-in-python-with-spacy-and-gensim-dc8f7748bdbf).
+It was modified by Anika Nissen (University of Duisburg-Essen (UDE)https://www.iis.wiwi.uni-due.de/team/anika-nissen/) with help from Dominic Rosati (scite.ai, https://scite.ai/authors/domenic-rosati-X4xWR8A) for improvement of the ngrams. 
+Additional modifications by Poppy Riddle (Dalhousie University, https://github.com/poppy-nicolette) for deployment on Colab, collating files, annotating, assigning clusters to source files in the df, and exporting. 
