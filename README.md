@@ -15,6 +15,8 @@ You will need high quality PDf files as input. They can be multi-page and they c
 
 ## Output
 This notebook will output a .txt file of all text in the document. Text can be incomplete due to damage on the original document, unusual typefaces, or scan quality issues. 
+OUtput will also include an html file that is a topic map of the specified number of topics and terms within those topics. 
+Individual documents can be identified by cluster from the output spreadsheet exported as a .csv. 
 
 ### dependencies
 ####OCR
