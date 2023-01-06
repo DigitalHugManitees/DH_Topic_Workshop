@@ -9,15 +9,12 @@ There's two parts:
 ## [Link](https://colab.research.google.com/github/DigitalHugManitees/DH_Topic_Workshop/blob/main/OCR_text_analysis_on_Colab_v69.ipynb) to the OCR notebook
 ## [Link](https://colab.research.google.com/github/DigitalHugManitees/DH_Topic_Workshop/blob/main/LDA_with_ngrams_on_Colab_v26.ipynb) to the LDA Notebook
 
-## Fill this in with:
-### introduction
-- [ ] What is this?
-- [ ] Why are we here?
-- [ ] What the what??
-- [ ] Where are my keys?
-### process
-- [ ] How to get to Google Colab (or just use the links above)
-- [ ] Use the website at the first link above - it provides clear, step by step instructions.
+
+## Input
+You will need high quality PDf files as input. They can be multi-page and they can be digital, scanned image only, or searchable types. This notebook was intended to provide usable text from scanned image PDF files commonly found in archives. 
+
+## Output
+This notebook will output a .txt file of all text in the document. Text can be incomplete due to damage on the original document, unusual typefaces, or scan quality issues. 
 
 ### dependencies
 ####OCR
