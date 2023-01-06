@@ -33,8 +33,9 @@ If you decide to run on locally on your computer by downloading this notebook, i
 ### sources/References
 This project would not have been possible without the innumerable contributors on github, stack exchange, and other sites. I've listed the core ones below that this project was built upon. 
 
-https://www.geeksforgeeks.org/python-reading-contents-of-pdf-using-ocr-optical-character-recognition/
+1. https://www.geeksforgeeks.org/python-reading-contents-of-pdf-using-ocr-optical-character-recognition/
 This notebook was adapted based on the above reference tutorial.
+2. #source: https://robertbrucecarter.com/writing/2020/06/setting-your-working-directory-to-google-drive-in-a-colab-notebook/
 
 ### sources on LDA
  - https://towardsdatascience.com/latent-dirichlet-allocation-lda-9d1cd064ffa2
