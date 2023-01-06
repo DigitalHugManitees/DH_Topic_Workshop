@@ -20,11 +20,19 @@ There's two parts:
 - [ ] Use the website at the first link above - it provides clear, step by step instructions.
 
 ### dependencies
-- [ ] list all dependencies in order they need to be installed in Google Colab
-- [ ] what are dependencies?
+####OCR
+If you decide to run on locally on your computer by downloading this notebook, it will be essential to create an environment with these dependencies. Read the documentation carefully, as there is an order in which these are installed. 
+- pytesseract - https://pypi.org/project/pytesseract/
+- tesseract - https://github.com/tesseract-ocr/tesseract
+- pdf2image - https://github.com/Belval/pdf2image
+#### LDA
+
 
 ### open license info
 - [ ] license type and what you can do with it
 
-### sources/references
-- [ ] many are in the notebook. We can move them here to clean up the notebook. 
+### sources/References
+This project would not have been possible without the innumerable contributors on github, stack exchange, and other sites. I've listed the core ones below that this project was built upon. 
+
+https://www.geeksforgeeks.org/python-reading-contents-of-pdf-using-ocr-optical-character-recognition/
+This notebook was adapted based on the above reference tutorial.
