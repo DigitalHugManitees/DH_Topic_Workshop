@@ -6,6 +6,9 @@ There's two parts:
 
 #### You can view the website [here.](https://digitalhugmanitees.github.io/DH_Topic_Workshop/)
 
+## [Link](https://colab.research.google.com/github/DigitalHugManitees/DH_Topic_Workshop/blob/main/OCR_text_analysis_on_Colab_v69.ipynb) to the OCR notebook
+## [Link](https://colab.research.google.com/github/DigitalHugManitees/DH_Topic_Workshop/blob/main/LDA_with_ngrams_on_Colab_v26.ipynb) to the LDA Notebook
+
 ## Fill this in with:
 ### introduction
 - [ ] What is this?
@@ -13,16 +16,15 @@ There's two parts:
 - [ ] What the what??
 - [ ] Where are my keys?
 ### process
-- [ ] How to get to Google Colab
-- [ ] The steps
-- [ ] open the notebook. Using one pdf at a time, move it to the newly created working directory in Colab Notebooks. 
-- [ ] move pdf files to a google directory. 
-- [ ] after running the entire notebook, move all those files to a new directory
-- [ ] repeat the process by moving a new pdf to the working directory
+- [ ] How to get to Google Colab (or just use the links above)
+- [ ] Use the website at the first link above - it provides clear, step by step instructions.
+
 ### dependencies
 - [ ] list all dependencies in order they need to be installed in Google Colab
 - [ ] what are dependencies?
+
 ### open license info
 - [ ] license type and what you can do with it
+
 ### sources/references
 - [ ] many are in the notebook. We can move them here to clean up the notebook. 
