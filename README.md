@@ -30,7 +30,7 @@ If you decide to run on locally on your computer by downloading this notebook, i
 
 
 ### open license info
-- [ ] license type and what you can do with it
+We apply a General Public Licences (GPL 3.0) to the notebooks. Dalhousie Gazette materials and extracted text are still subject to Canadian copyright and fair use laws. 
 
 ### sources/References
 This project would not have been possible without the innumerable contributors on github, stack exchange, and other sites. I've listed the core ones below that this project was built upon. 
