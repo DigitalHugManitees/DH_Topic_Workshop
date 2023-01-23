@@ -6,7 +6,7 @@ There's two parts:
 
 #### You can view the website [here.](https://digitalhugmanitees.github.io/DH_Topic_Workshop/)
 
-## [Link] (https://colab.research.google.com/github/DigitalHugManitees/DH_Topic_Workshop/blob/main/OCR_and_LDA_superbook_v2.ipynb) to the condensed notebook for workshop part 1. 
+## [Link](https://colab.research.google.com/github/DigitalHugManitees/DH_Topic_Workshop/blob/main/OCR_and_LDA_superbook_v2.ipynb) to the condensed notebook for workshop part 1. 
 
 ## [Link](https://colab.research.google.com/github/DigitalHugManitees/DH_Topic_Workshop/blob/main/OCR_text_analysis_on_Colab_v69.ipynb) to the OCR notebook used in the workshop part 2.
 ## [Link](https://colab.research.google.com/github/DigitalHugManitees/DH_Topic_Workshop/blob/main/LDA_with_ngrams_on_Colab_v26.ipynb) to the LDA notebook used in the workshop part 2. 
